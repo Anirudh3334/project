@@ -21,33 +21,7 @@ REQUIRED COMPONENTS:
 - Optional: YouTube/Google Drive for demo video
 
 FLOWCHART OF THE CODE:
-+--------------------+
-| Start / Setup      |
-| - Initialize I2C   |
-| - Init OLED        |
-| - Init MPU6050     |
-+--------------------+
-           |
-           v
-+--------------------+
-| Check MPU Conn.    |
-| If fail: display   |
-| error and halt     |
-+--------------------+
-           |
-           v
-+--------------------+
-| Loop:              |
-| - Read accel/gyro  |
-| - Compute angles   |
-| - Update OLED      |
-| - Delay (200 ms)   |
-+--------------------+
-           |
-           v
-+--------------------+
-| Repeat indefinitely |
-+--------------------+
+
 
 
 
