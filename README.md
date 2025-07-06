@@ -11,12 +11,12 @@ Simulation demonstrated via Wokwi.
 Documentation including flowchart, code, circuit diagram, demo video.
 
 REQUIRED COMPONENTS:
-Hardware	- MPU6050 sensor
+ Hardware	- MPU6050 sensor
 - SSD1306 I²C OLED (128×64)
 - Arduino UNO (or ESP32)
-Software	- Arduino IDE
+ Software	- Arduino IDE
 - Libraries: Wire, MPU6050, Adafruit_GFX, Adafruit_SSD1306
-Cloud/Online	- Wokwi simulation environment
+ Cloud/Online	- Wokwi simulation environment
 - GitHub (to host repo)
 - Optional: YouTube/Google Drive for demo video
 
